@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T12:32:04.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="dDb_gQT5r6CAolwPoSsA" version="20.8.23" type="device"><diagram name="Página-1" id="DnmdfgA8noA33Kx1m2ER">3VjbcpswEP0aHp0xAt8e40vSzvQ247RJHtcggxKBiBA27tdXAnELkMRN07h9saWj1a72nNUabFiLIL3kEPmfmYupgYZualhLAyHTtmz5pZBDjkxm4xzwOHG1UQWsyU+swaFGE+LiuGEoGKOCRE3QYWGIHdHAgHO2b5ptGW1GjcDDLWDtAG2j18QVfo5O0aTCP2Di+UVkczzLVwIojHUmsQ8u29cga2VYC86YyEdBusBUkVfwku+76FktD8ZxKDo2fI8x/7q5U5ygIYWN1CUz8oVQ1J0rQ3QBUXTmEvA4BPFZiEWGKr+UhPdHbSjOdbuGEC8S8/rb7pp+9JZoEnwZmGW+ZR6xOBQcS0DKKSfzvU8EXkfgqJW9rCiJ+SJQRzflEOIo13hLUizjzfPQO8wFTntpqQe/xCzAgh+kSbFhqvU5FIWn5/tKbtvWmF+TugRBl5hX+q5UkAOdcTGt6dItbCeBSGcKNNGk6aI6ERbR1DobNXhEwxKpMYksq81kCR7B5MtoszpoG1MZdr5loWjwN35IWLEwiLM+JEt+iFCUZhQV63Lkqe81PEif2ps8XO4wX2tpI4kVLxCGEi+UY0eSjvmfEcaym7KYdru8TbOjvEfHV/fLNLF7NYkjCF+lyRJHLCaCFQ43vFKkD5E55HFPTrqR2exMaNa+T39XutHbSXfFIYzBWFjG+ST7tJ5Q8XQ1e3zd7PF7X7fx22m2SgWHp27b6er0+Ff//e/W5PU6zXp0Gpx7OHQI9Avlkl1nBCXQQPOvQlC8FZ0hnj3rBpx7j7MkdAcOo4zn/khIBAHafeorErHeSirh7Oj/QDY/QNn9N+ksZO3Bb6Vzuk3hcfNGdkdTQJPisbbeFsw36wvT9oO+K99Q9ZRx4TOPhUBXFTrPpFSP9suhnFU2nxiLNH93WIiDft2GRDbxBrs4JeJGbZe55rPb2soy1Z6zyUFPVDfSDhXJWhB12KflkLmxhDv4+d4ogHtYPGfXlpdjCoLsmuc47q2tek3P1mp/dlirXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T12:37:18.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bOpw3n7jQ3YxExQW91lo" version="20.8.23" type="github">
+  <diagram name="Página-1" id="DnmdfgA8noA33Kx1m2ER">
+    <mxGraphModel dx="1434" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" link="https://app.diagrams.net/" id="YSaneCu1WPvWlIgD27mN-1">
+          <mxCell style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+            <mxGeometry x="180" y="100" width="440" height="440" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="YSaneCu1WPvWlIgD27mN-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="277" y="190" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="YSaneCu1WPvWlIgD27mN-3" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;Saque&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="345" y="140" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSaneCu1WPvWlIgD27mN-4" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Deposito&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="510" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSaneCu1WPvWlIgD27mN-5" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Transação&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="345" y="460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSaneCu1WPvWlIgD27mN-6" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;Extrato&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="295" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YSaneCu1WPvWlIgD27mN-7" value="&lt;span style=&quot;font-size: 29px;&quot;&gt;-Agencia&lt;br&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Tipo&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Valor&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;-Conta&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="345" y="230" width="127.5" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
