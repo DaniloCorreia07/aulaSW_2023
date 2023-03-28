@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\projeto_desconto\bin\Debug\net7.0\projeto_desconto.exe
+C:\Users\LAB4\Desktop\projeto_desconto\bin\Debug\net7.0\projeto_desconto.deps.json
+C:\Users\LAB4\Desktop\projeto_desconto\bin\Debug\net7.0\projeto_desconto.runtimeconfig.json
+C:\Users\LAB4\Desktop\projeto_desconto\bin\Debug\net7.0\projeto_desconto.dll
+C:\Users\LAB4\Desktop\projeto_desconto\bin\Debug\net7.0\projeto_desconto.pdb
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.dll
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\refint\projeto_desconto.dll
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.pdb
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\projeto_desconto.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\projeto_desconto\obj\Debug\net7.0\ref\projeto_desconto.dll
