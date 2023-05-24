@@ -1,0 +1,15 @@
+C:\Users\Samsng\Desktop\fala\bin\Debug\net6.0\fala.exe
+C:\Users\Samsng\Desktop\fala\bin\Debug\net6.0\fala.deps.json
+C:\Users\Samsng\Desktop\fala\bin\Debug\net6.0\fala.runtimeconfig.json
+C:\Users\Samsng\Desktop\fala\bin\Debug\net6.0\fala.dll
+C:\Users\Samsng\Desktop\fala\bin\Debug\net6.0\fala.pdb
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.csproj.AssemblyReference.cache
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.AssemblyInfoInputs.cache
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.AssemblyInfo.cs
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.csproj.CoreCompileInputs.cache
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.dll
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\refint\fala.dll
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.pdb
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\fala.genruntimeconfig.cache
+C:\Users\Samsng\Desktop\fala\obj\Debug\net6.0\ref\fala.dll
